@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+folium==0.17.0
+streamlit-folium==0.22.0
+geopandas==1.0.1
+shapely==2.0.6
+fiona==1.9.6
+pyogrio==0.9.0
