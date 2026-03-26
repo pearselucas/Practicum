@@ -1,0 +1,125 @@
+stadium,team,league,city,state,lat,lon
+State Farm Stadium,Cardinals,NFL,Glendale,AZ,33.5276,-112.2626
+Mercedes-Benz Stadium,Falcons,NFL,Atlanta,GA,33.7554,-84.4008
+M&T Bank Stadium,Ravens,NFL,Baltimore,MD,39.2779,-76.6227
+Highmark Stadium,Bills,NFL,Orchard Park,NY,42.7738,-78.7869
+Bank of America Stadium,Panthers,NFL,Charlotte,NC,35.2258,-80.8528
+Soldier Field,Bears,NFL,Chicago,IL,41.8623,-87.6167
+Paycor Stadium,Bengals,NFL,Cincinnati,OH,39.0954,-84.516
+Huntington Bank Field,Browns,NFL,Cleveland,OH,41.5061,-81.6995
+AT&T Stadium,Cowboys,NFL,Arlington,TX,32.7473,-97.0945
+Empower Field at Mile High,Broncos,NFL,Denver,CO,39.7439,-105.0201
+Ford Field,Lions,NFL,Detroit,MI,42.34,-83.0456
+Lambeau Field,Packers,NFL,Green Bay,WI,44.5013,-88.0622
+NRG Stadium,Texans,NFL,Houston,TX,29.6847,-95.4107
+Lucas Oil Stadium,Colts,NFL,Indianapolis,IN,39.7601,-86.1639
+TIAA Bank Field,Jaguars,NFL,Jacksonville,FL,30.3239,-81.6373
+Arrowhead Stadium,Chiefs,NFL,Kansas City,MO,39.049,-94.4839
+Allegiant Stadium,Raiders,NFL,Las Vegas,NV,36.0908,-115.183
+SoFi Stadium,Chargers,NFL,Inglewood,CA,33.9535,-118.3392
+SoFi Stadium,Rams,NFL,Inglewood,CA,33.9535,-118.3392
+Hard Rock Stadium,Dolphins,NFL,Miami Gardens,FL,25.958,-80.2389
+U.S. Bank Stadium,Vikings,NFL,Minneapolis,MN,44.9738,-93.2575
+Gillette Stadium,Patriots,NFL,Foxborough,MA,42.0909,-71.2643
+Caesars Superdome,Saints,NFL,New Orleans,LA,29.9511,-90.0812
+MetLife Stadium,Giants,NFL,East Rutherford,NJ,40.8135,-74.0745
+MetLife Stadium,Jets,NFL,East Rutherford,NJ,40.8135,-74.0745
+Lincoln Financial Field,Eagles,NFL,Philadelphia,PA,39.9008,-75.1675
+Acrisure Stadium,Steelers,NFL,Pittsburgh,PA,40.4468,-80.0158
+Levi's Stadium,49ers,NFL,Santa Clara,CA,37.403,-121.97
+Lumen Field,Seahawks,NFL,Seattle,WA,47.5952,-122.3316
+Raymond James Stadium,Buccaneers,NFL,Tampa,FL,27.9759,-82.5033
+Nissan Stadium,Titans,NFL,Nashville,TN,36.1665,-86.7713
+FedExField,Commanders,NFL,Landover,MD,38.9078,-76.8645
+State Farm Arena,Hawks,NBA,Atlanta,GA,33.7573,-84.3963
+TD Garden,Celtics,NBA,Boston,MA,42.3662,-71.0621
+Barclays Center,Nets,NBA,Brooklyn,NY,40.6826,-73.9754
+Spectrum Center,Hornets,NBA,Charlotte,NC,35.2251,-80.8392
+United Center,Bulls,NBA,Chicago,IL,41.8807,-87.6742
+Rocket Mortgage FieldHouse,Cavaliers,NBA,Cleveland,OH,41.4965,-81.6882
+American Airlines Center,Mavericks,NBA,Dallas,TX,32.7905,-96.8103
+Ball Arena,Nuggets,NBA,Denver,CO,39.7487,-105.0077
+Little Caesars Arena,Pistons,NBA,Detroit,MI,42.341,-83.055
+Chase Center,Warriors,NBA,San Francisco,CA,37.768,-122.3877
+Toyota Center,Rockets,NBA,Houston,TX,29.7508,-95.3621
+Gainbridge Fieldhouse,Pacers,NBA,Indianapolis,IN,39.7639,-86.1555
+Intuit Dome,Clippers,NBA,Inglewood,CA,33.953,-118.339
+Crypto.com Arena,Lakers,NBA,Los Angeles,CA,34.043,-118.2673
+FedExForum,Grizzlies,NBA,Memphis,TN,35.1382,-90.0505
+Kaseya Center,Heat,NBA,Miami,FL,25.7814,-80.187
+Fiserv Forum,Bucks,NBA,Milwaukee,WI,43.0451,-87.9172
+Target Center,Timberwolves,NBA,Minneapolis,MN,44.9795,-93.276
+Smoothie King Center,Pelicans,NBA,New Orleans,LA,29.949,-90.0821
+Madison Square Garden,Knicks,NBA,New York,NY,40.7505,-73.9934
+Paycom Center,Thunder,NBA,Oklahoma City,OK,35.4634,-97.5151
+Kia Center,Magic,NBA,Orlando,FL,28.5392,-81.3839
+Wells Fargo Center,76ers,NBA,Philadelphia,PA,39.9012,-75.1719
+Footprint Center,Suns,NBA,Phoenix,AZ,33.4457,-112.0712
+Moda Center,Trail Blazers,NBA,Portland,OR,45.5316,-122.6668
+Golden 1 Center,Kings,NBA,Sacramento,CA,38.5802,-121.4995
+Frost Bank Center,Spurs,NBA,San Antonio,TX,29.427,-98.4375
+Scotiabank Arena,Raptors,NBA,Toronto,ON,43.6435,-79.3791
+Delta Center,Jazz,NBA,Salt Lake City,UT,40.7683,-111.9011
+Capital One Arena,Wizards,NBA,Washington,DC,38.8981,-77.0209
+Truist Park,Braves,MLB,Atlanta,GA,33.8908,-84.4677
+Oriole Park at Camden Yards,Orioles,MLB,Baltimore,MD,39.2839,-76.6219
+Fenway Park,Red Sox,MLB,Boston,MA,42.3467,-71.0972
+Wrigley Field,Cubs,MLB,Chicago,IL,41.9484,-87.6553
+Guaranteed Rate Field,White Sox,MLB,Chicago,IL,41.8299,-87.6338
+Great American Ball Park,Reds,MLB,Cincinnati,OH,39.0979,-84.5086
+Progressive Field,Guardians,MLB,Cleveland,OH,41.4962,-81.6852
+Coors Field,Rockies,MLB,Denver,CO,39.7559,-104.9942
+Comerica Park,Tigers,MLB,Detroit,MI,42.339,-83.0485
+Minute Maid Park,Astros,MLB,Houston,TX,29.7573,-95.3555
+Kauffman Stadium,Royals,MLB,Kansas City,MO,39.0517,-94.4803
+Angel Stadium,Angels,MLB,Anaheim,CA,33.8003,-117.8827
+Dodger Stadium,Dodgers,MLB,Los Angeles,CA,34.0739,-118.24
+LoanDepot Park,Marlins,MLB,Miami,FL,25.7781,-80.2197
+American Family Field,Brewers,MLB,Milwaukee,WI,43.028,-87.9712
+Target Field,Twins,MLB,Minneapolis,MN,44.9817,-93.2778
+Citi Field,Mets,MLB,Queens,NY,40.7571,-73.8458
+Yankee Stadium,Yankees,MLB,Bronx,NY,40.8296,-73.9262
+Oakland Coliseum,Athletics,MLB,Oakland,CA,37.7516,-122.2005
+Citizens Bank Park,Phillies,MLB,Philadelphia,PA,39.9061,-75.1665
+PNC Park,Pirates,MLB,Pittsburgh,PA,40.4469,-80.0057
+Petco Park,Padres,MLB,San Diego,CA,32.7073,-117.1573
+Oracle Park,Giants,MLB,San Francisco,CA,37.7786,-122.3893
+T-Mobile Park,Mariners,MLB,Seattle,WA,47.5914,-122.3325
+Busch Stadium,Cardinals,MLB,St. Louis,MO,38.6226,-90.1928
+Tropicana Field,Rays,MLB,St. Petersburg,FL,27.7682,-82.6534
+Globe Life Field,Rangers,MLB,Arlington,TX,32.7473,-97.0847
+Rogers Centre,Blue Jays,MLB,Toronto,ON,43.6414,-79.3894
+Nationals Park,Nationals,MLB,Washington,DC,38.873,-77.0074
+Chase Field,Diamondbacks,MLB,Phoenix,AZ,33.4455,-112.0667
+Honda Center,Ducks,NHL,Anaheim,CA,33.8078,-117.8766
+TD Garden,Bruins,NHL,Boston,MA,42.3662,-71.0621
+KeyBank Center,Sabres,NHL,Buffalo,NY,42.874,-78.8766
+Scotiabank Saddledome,Flames,NHL,Calgary,AB,51.0374,-114.0519
+PNC Arena,Hurricanes,NHL,Raleigh,NC,35.8033,-78.7219
+United Center,Blackhawks,NHL,Chicago,IL,41.8807,-87.6742
+Ball Arena,Avalanche,NHL,Denver,CO,39.7487,-105.0077
+Nationwide Arena,Blue Jackets,NHL,Columbus,OH,39.9693,-83.006
+American Airlines Center,Stars,NHL,Dallas,TX,32.7905,-96.8103
+Little Caesars Arena,Red Wings,NHL,Detroit,MI,42.341,-83.055
+Rogers Place,Oilers,NHL,Edmonton,AB,53.5461,-113.497
+Amerant Bank Arena,Panthers,NHL,Sunrise,FL,26.1584,-80.3259
+Crypto.com Arena,Kings,NHL,Los Angeles,CA,34.043,-118.2673
+Xcel Energy Center,Wild,NHL,Saint Paul,MN,44.9448,-93.101
+Bell Centre,Canadiens,NHL,Montreal,QC,45.496,-73.5693
+Bridgestone Arena,Predators,NHL,Nashville,TN,36.1591,-86.7785
+Prudential Center,Devils,NHL,Newark,NJ,40.7335,-74.171
+UBS Arena,Islanders,NHL,Elmont,NY,40.7229,-73.5906
+Madison Square Garden,Rangers,NHL,New York,NY,40.7505,-73.9934
+Canadian Tire Centre,Senators,NHL,Ottawa,ON,45.2969,-75.9272
+Wells Fargo Center,Flyers,NHL,Philadelphia,PA,39.9012,-75.1719
+PPG Paints Arena,Penguins,NHL,Pittsburgh,PA,40.439,-79.9893
+SAP Center,Sharks,NHL,San Jose,CA,37.3328,-121.901
+Climate Pledge Arena,Kraken,NHL,Seattle,WA,47.6221,-122.354
+Enterprise Center,Blues,NHL,St. Louis,MO,38.6268,-90.2026
+Amalie Arena,Lightning,NHL,Tampa,FL,27.9427,-82.4518
+Scotiabank Arena,Maple Leafs,NHL,Toronto,ON,43.6435,-79.3791
+Delta Center,Utah Hockey Club,NHL,Salt Lake City,UT,40.7683,-111.9011
+Rogers Arena,Canucks,NHL,Vancouver,BC,49.2775,-123.1085
+T-Mobile Arena,Golden Knights,NHL,Las Vegas,NV,36.1028,-115.178
+Capital One Arena,Capitals,NHL,Washington,DC,38.8981,-77.0209
+Canada Life Centre,Jets,NHL,Winnipeg,MB,49.8927,-97.1439
